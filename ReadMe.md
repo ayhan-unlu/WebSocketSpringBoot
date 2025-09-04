@@ -22,6 +22,12 @@ For further reference, please consider the following sections:
 
 * [GitHub](https://github.com/ayhan-unlu/WebSocketSpringBoot)
 
+
+* [H2 console](https://localhost:8080/h2-console)
+
+
+* [Swagger](https://localhost:8080/swagger-ui.html)
+
 [//]: # ()
 [//]: # (* [Official Apache Maven documentation]&#40;https://maven.apache.org/guides/index.html&#41;)
 
